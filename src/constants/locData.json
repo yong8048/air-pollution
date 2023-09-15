@@ -1,0 +1,29 @@
+{
+  "locations": [
+    {
+      "key": 1,
+      "sidoName": "서울",
+      "stations": []
+    },
+    {
+      "key": 2,
+      "sidoName": "부산",
+      "stations": []
+    },
+    { "key": 3, "sidoName": "대구", "stations": [] },
+    { "key": 4, "sidoName": "인천", "stations": [] },
+    { "key": 5, "sidoName": "광주", "stations": [] },
+    { "key": 6, "sidoName": "대전", "stations": [] },
+    { "key": 7, "sidoName": "울산", "stations": [] },
+    { "key": 8, "sidoName": "경기", "stations": [] },
+    { "key": 9, "sidoName": "강원", "stations": [] },
+    { "key": 10, "sidoName": "충북", "stations": [] },
+    { "key": 11, "sidoName": "충남", "stations": [] },
+    { "key": 12, "sidoName": "전북", "stations": [] },
+    { "key": 13, "sidoName": "전남", "stations": [] },
+    { "key": 14, "sidoName": "경북", "stations": [] },
+    { "key": 15, "sidoName": "경남", "stations": [] },
+    { "key": 16, "sidoName": "제주", "stations": [] },
+    { "key": 17, "sidoName": "세종", "stations": [] }
+  ]
+}
